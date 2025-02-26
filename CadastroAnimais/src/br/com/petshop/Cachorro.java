@@ -1,4 +1,4 @@
-package br.com.petshop;
+ package br.com.petshop;
 
 public class Cachorro extends Animal {
 	private string raça;
